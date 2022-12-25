@@ -701,7 +701,9 @@ s
     font-size: var(--smaller-font-size);
     margin-bottom: var(--mb-1);
 }
-
+.qualification{
+    margin-bottom: 1rem;
+}
 .qualification__calendar {
     font-size: var(--smaller-font-size);
     color: var(--text-color-light);
@@ -1280,7 +1282,9 @@ s
     padding: 0;
 }
   
-
+#Projects{
+    margin-bottom: 1rem;
+}
 
 
 
@@ -1645,6 +1649,9 @@ s
         grid-template-columns: 0.6fr;
         justify-content: center;
     }
+}
+.home{
+    margin-bottom: 1rem;
 }
 
 @media screen and (min-width:968px) {
